@@ -14,6 +14,6 @@
   "author": "Yoshiaki Sugimoto",
   "license": "MIT",
   "dependencies": {
-    "js-dependency-visualizer": "~0.1.3"
+    "js-dependency-visualizer": "~0.1.4"
   }
 }
