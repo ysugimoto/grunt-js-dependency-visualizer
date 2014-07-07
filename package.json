@@ -1,0 +1,19 @@
+{
+  "name": "grunt-js-dependency-visualizer",
+  "version": "0.1.0",
+  "description": "js-dependency-visualizer for grunt",
+  "main": "tasks/dependecy-visualizer.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "grunt",
+    "JavaScript",
+    "dependency"
+  ],
+  "author": "Yoshiaki Sugimoto",
+  "license": "MIT",
+  "dependencies": {
+    "js-dependency-visualizer": "~0.1.3"
+  }
+}
