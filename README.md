@@ -25,6 +25,10 @@ options means:
 - `srcPath` source detection path
 - `destPath` output generated data path
 
+### Description of dependency
+
+@see https://github.com/ysugimoto/js-dependency-visualizer
+
 
 #License
 
