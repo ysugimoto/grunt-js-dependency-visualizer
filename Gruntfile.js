@@ -4,7 +4,7 @@ module.exports = function(grunt) {
         'dependency-visualizer': {
             example: {
                 options: {
-                    srcPath: process.cwd() + '/example',
+                    files: ['example/*.js'],
                     destPath: process.cwd() + '/visualize'
                 }
             }
