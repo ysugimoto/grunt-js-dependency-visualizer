@@ -11,6 +11,10 @@
     "JavaScript",
     "dependency"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysugimoto/grunt-js-dependency-visualizer.git"
+  },
   "author": "Yoshiaki Sugimoto",
   "license": "MIT",
   "dependencies": {
