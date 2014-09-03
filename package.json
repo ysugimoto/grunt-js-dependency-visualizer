@@ -1,6 +1,6 @@
 {
   "name": "grunt-js-dependency-visualizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "js-dependency-visualizer for grunt",
   "main": "tasks/dependecy-visualizer.js",
   "scripts": {
